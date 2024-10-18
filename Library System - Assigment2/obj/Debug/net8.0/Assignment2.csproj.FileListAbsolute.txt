@@ -1,0 +1,15 @@
+E:\Coding Dungeon\Learning\C#\dotnet_Assignments\Library System - Assigment2\obj\Debug\net8.0\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding Dungeon\Learning\C#\dotnet_Assignments\Library System - Assigment2\obj\Debug\net8.0\Assignment2.AssemblyInfoInputs.cache
+E:\Coding Dungeon\Learning\C#\dotnet_Assignments\Library System - Assigment2\obj\Debug\net8.0\Assignment2.AssemblyInfo.cs
+E:\Coding Dungeon\Learning\C#\dotnet_Assignments\Library System - Assigment2\obj\Debug\net8.0\Assignment2.csproj.CoreCompileInputs.cache
+E:\Coding Dungeon\Learning\C#\dotnet_Assignments\Library System - Assigment2\obj\Debug\net8.0\Assignment2.sourcelink.json
+E:\Coding Dungeon\Learning\C#\dotnet_Assignments\Library System - Assigment2\bin\Debug\net8.0\Assignment2.exe
+E:\Coding Dungeon\Learning\C#\dotnet_Assignments\Library System - Assigment2\bin\Debug\net8.0\Assignment2.deps.json
+E:\Coding Dungeon\Learning\C#\dotnet_Assignments\Library System - Assigment2\bin\Debug\net8.0\Assignment2.runtimeconfig.json
+E:\Coding Dungeon\Learning\C#\dotnet_Assignments\Library System - Assigment2\bin\Debug\net8.0\Assignment2.dll
+E:\Coding Dungeon\Learning\C#\dotnet_Assignments\Library System - Assigment2\bin\Debug\net8.0\Assignment2.pdb
+E:\Coding Dungeon\Learning\C#\dotnet_Assignments\Library System - Assigment2\obj\Debug\net8.0\Assignment2.dll
+E:\Coding Dungeon\Learning\C#\dotnet_Assignments\Library System - Assigment2\obj\Debug\net8.0\refint\Assignment2.dll
+E:\Coding Dungeon\Learning\C#\dotnet_Assignments\Library System - Assigment2\obj\Debug\net8.0\Assignment2.pdb
+E:\Coding Dungeon\Learning\C#\dotnet_Assignments\Library System - Assigment2\obj\Debug\net8.0\Assignment2.genruntimeconfig.cache
+E:\Coding Dungeon\Learning\C#\dotnet_Assignments\Library System - Assigment2\obj\Debug\net8.0\ref\Assignment2.dll
