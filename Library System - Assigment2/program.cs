@@ -1,3 +1,41 @@
+ /*
+
+========================= Problem Statement =========================
+Designing a Library Management System in C# Using Object-Oriented Programming (OOP)
+
+Problem Overview:
+    You need to create a system to manage the books in a library, handle user
+    interactions like borrowing and returning books, and keep track of users. The
+    system should allow for multiple types of users (e.g., Members and Librarians)
+    who can perform different tasks.
+
+Requirements:
+    1- Book:
+        Each book should have a title, author, ISBN, and availability status.
+        Provide methods to borrow and return a book.
+
+    2- Library User (Abstract Class):
+        Define an abstract class LibraryUser with properties like name, membershipID, and email.
+        Define methods to borrow and return a book. Each type of user will have different behaviors for borrowing/returning books.
+
+    3- Member (Derived Class):
+        A Member can borrow a limited number of books (e.g., 3 books at a time).
+        Members should be able to borrow books, but only if they are available, and return them when done.
+
+    4- Librarian (Derived Class):
+        A Librarian has the ability to add new books to the library collection.
+        Librarians can borrow and return books like members but have no limit on the number of books they can borrow at once.
+
+    5- Library:
+        Create a Library class that manages a collection of books and users.
+        The Library class should provide functionality to:
+            Add new books to the collection.
+            Display available books.
+            Check if a book is available or borrowed.
+            Handle borrowing and returning of books by users
+
+ */
+
  using System;
  using LibraryUsers;
  using Lib;
